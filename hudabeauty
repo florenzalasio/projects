@@ -1,0 +1,20 @@
+# Huda Beauty: Community Sentiment & Engagement Analysis
+### Bridging Social Connection with Data Intelligence
+
+This repository contains a data-driven approach to community management, specifically tailored for **Huda Beauty**. As a Community and Social Executive candidate, I developed this tool to demonstrate how I transform social engagement into actionable business insights.
+
+## 🚀 Overview
+This project analyzes social media engagement metrics and community sentiment to help the social team:
+- Identify high-performing content "vibes" (Sentiment Analysis).
+- Predict optimal posting times for the UAE vs. Global markets.
+- Visualize community growth trends using Python and Power BI.
+
+## 🛠️ Technical Stack
+- **Language:** Python 3.10+
+- **Libraries:** Pandas (Data Wrangling), TextBlob/VADER (Sentiment), Matplotlib/Seaborn (Viz)
+- **Tools:** SQL for database queries, Meta Business Suite API (mocked for this demo).
+
+## 📊 Key Features
+1. **Sentiment Scraper:** Analyzes community comments to categorize feedback as Positive (Loves the formula!), Neutral, or Negative (Shipping/Stock issues).
+2. **Engagement Heatmaps:** Visualizes when the "Huda Boss" community is most active.
+3. **Product Pivot Tables:** Breaks down engagement by product category (e.g., Wishful vs. Kayali).
